@@ -1,0 +1,15 @@
+When I update the version of a file, I can make mistake easily, but
+fortunately, the old one is right. So I can find my mistake by comparingthe two version and easily find the mistakes.
+
+If I can easily read the old versions, that will help me a lot if there are some big mistakes in my newest version. And I can recover my version to any old one which are avilable.
+
+If I commit my version manual, it will be more logical and more easier to understand than automatically commit.
+
+When I can save all the relevant files every time I commit, it will be much more easier to find the change I've made.
+
+By using git log, I can see the overall information of the change for each time, further, if I use git log --stat, I can also see the numbers of lines which are added or delected
+By using git diff, I can see the full changing information between two version.
+
+With version control, I can easily find the version which contains my mistake and fix it. That means, I can try everything without worring about destrorying my work.
+
+After learning Git, I want to do every project through Git, it is amazing!
