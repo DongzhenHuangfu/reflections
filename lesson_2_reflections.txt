@@ -12,3 +12,5 @@ Every time I make a logical change, I should do the followings:
 
 When I want to do a different version and the origin one is also useful, I can make a branch, which will be mauch more easier to switch between useful versions and the name of each branch will help me to understand which part of this version is special.
 
+By using the graph I can get a visual information abou t the branch I made, and also, which commit is reachable and which is not.
+
