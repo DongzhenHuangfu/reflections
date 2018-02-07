@@ -4,3 +4,9 @@ staging area is a place you combine the relevant files together, so that you can
 Working area is the place you are working on.
 Version base is where you save your versions
 
+Every time I make a logical change, I should do the followings:
+1. use git diff to make sure I doing exactly what I want
+2. use git add +filename to add it in the staging area
+3. use git diff --staged to make sure I am commiting exactly what I want
+4. use git commit to commit it.
+
