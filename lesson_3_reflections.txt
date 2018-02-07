@@ -1,4 +1,9 @@
 When would you want to creat a remote reposity rather than keeping all your work local?
+When I want to copy the reposity from others
 
 I want to push the change manually rather than automatically cause I don't want my version be published before I solve all the bug.
+
+fork is the method for copy the reposity to my github online profile;
+clone is the method for copy from online to lokal;
+branch is to make new branch of version.
 
