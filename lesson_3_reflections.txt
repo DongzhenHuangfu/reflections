@@ -9,3 +9,4 @@ branch is to make new branch of version.
 
 By having the remote branch a copi in the local can help me to know the difference between my version and my cooperaters', which is helpful to the cooperation and when the remote one is on the same branch with my, just use git pull will cause fast forward, which cannot merge all the changes.
 
+If I make a cooperation without git or github, it will be best to seperate the files into several not relevant parts. It will be much more harder than Git or Github!
