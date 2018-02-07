@@ -1,1 +1,4 @@
 When would you want to creat a remote reposity rather than keeping all your work local?
+
+I want to push the change manually rather than automatically cause I don't want my version be published before I solve all the bug.
+
