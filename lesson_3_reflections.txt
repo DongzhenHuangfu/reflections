@@ -7,3 +7,5 @@ fork is the method for copy the reposity to my github online profile;
 clone is the method for copy from online to lokal;
 branch is to make new branch of version.
 
+By having the remote branch a copi in the local can help me to know the difference between my version and my cooperaters', which is helpful to the cooperation and when the remote one is on the same branch with my, just use git pull will cause fast forward, which cannot merge all the changes.
+
