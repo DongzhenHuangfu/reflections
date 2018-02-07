@@ -15,3 +15,7 @@ When I want to do a different version and the origin one is also useful, I can m
 By using the graph I can get a visual information abou t the branch I made, and also, which commit is reachable and which is not.
 
 When I merge two branch, it will combine the change each branch have, after that, the branch tree will be listed by time
+
+If I always merge automatically, it make occurs conflics and git ist not so small to know which lines you really want when conflic turns up. But it's really saving a lot of time.
+If I always merge manually, it will by annoying and it will spend me lots of time. But I can do exactly what I want.
+
