@@ -10,3 +10,5 @@ Every time I make a logical change, I should do the followings:
 3. use git diff --staged to make sure I am commiting exactly what I want
 4. use git commit to commit it.
 
+When I want to do a different version and the origin one is also useful, I can make a branch, which will be mauch more easier to switch between useful versions and the name of each branch will help me to understand which part of this version is special.
+
