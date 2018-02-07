@@ -1,2 +1,6 @@
 When I initialise the version properties, it will creat a file named .git, which can record the change I made for the tracked files, in this way, I can do the version control.
 
+staging area is a place you combine the relevant files together, so that you can commit them together.
+Working area is the place you are working on.
+Version base is where you save your versions
+
