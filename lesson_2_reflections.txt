@@ -14,3 +14,4 @@ When I want to do a different version and the origin one is also useful, I can m
 
 By using the graph I can get a visual information abou t the branch I made, and also, which commit is reachable and which is not.
 
+When I merge two branch, it will combine the change each branch have, after that, the branch tree will be listed by time
